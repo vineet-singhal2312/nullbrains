@@ -1,0 +1,30 @@
+.hero-heading-section {
+  height: 70vh;
+  width: 80;
+  color: var(--grey-two-color);
+  margin: 3rem 0rem;
+}
+.main-heading-one {
+  color: var(--heading-one);
+  font-size: 5rem;
+}
+.main-heading-two {
+  color: var(--heading-two);
+  font-size: 5rem;
+}
+.hero-section-content-div {
+  width: 25%;
+  height: 100px;
+}
+@media only screen and (max-width: 600px) {
+  .main-heading-one {
+    font-size: 2rem;
+  }
+  .main-heading-two {
+    font-size: 2rem;
+  }
+  .hero-heading-section-description {
+    width: 250px;
+    font-size: 0.75rem;
+  }
+}
