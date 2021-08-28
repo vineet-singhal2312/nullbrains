@@ -23,7 +23,7 @@ export const BlogHeroCardData = [
   },
   {
     id: 3,
-    heading: "GAming Evolution",
+    heading: "Gaming Evolution",
     subHeading:
       "Learn about the evolution of gaming and how it started a revolution.",
     imgURL:

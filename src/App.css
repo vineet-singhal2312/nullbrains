@@ -1,3 +1,4 @@
+@import url("https://fonts.googleapis.com/css2?family=IBM+Plex+Sans+Arabic:wght@300&family=Rubik&display=swap");
 .App {
   text-align: center;
 }
@@ -6,7 +7,14 @@
   margin: 0;
   box-sizing: border-box;
 }
-
+h1,
+h2,
+h3,
+h4,
+h5 {
+  /* font-family: "IBM Plex Sans Arabic", sans-serif; */
+  font-family: "Rubik", sans-serif;
+}
 :root {
   --main-color: #ffffff;
   --second-color: #0b8e69;

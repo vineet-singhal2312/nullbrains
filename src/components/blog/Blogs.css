@@ -1,3 +1,13 @@
+.blogs {
+  background: rgb(251, 251, 251);
+  background: linear-gradient(
+    0deg,
+    rgba(251, 251, 251, 1) 89%,
+    rgba(221, 219, 223, 1) 100%,
+    rgba(221, 219, 223, 1) 100%,
+    rgba(221, 219, 223, 1) 100%
+  );
+}
 .blog-heading-div {
   padding: 5rem 7rem;
   align-self: start;
@@ -102,4 +112,24 @@
 }
 .bgBlueDark {
   background-color: var(--blue-dark-color);
+}
+@media only screen and (max-width: 600px) {
+  .blog-heading-div {
+    padding: 1rem 1rem;
+    font-size: 0.75rem;
+  }
+  .hero-card-div {
+    width: 100%;
+  }
+  .card-body {
+    height: 150px;
+    font-size: 0.85rem;
+  }
+  .blog-hero-card-img-top {
+    height: 325px;
+  }
+  .blog-hero-card-badge {
+    width: 175px;
+    font-size: 0.75rem;
+  }
 }

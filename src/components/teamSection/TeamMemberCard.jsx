@@ -10,7 +10,7 @@ const TeamMemberCard = ({ memberInfo }) => {
           className={`team-member-card-img-div  d-flex flex-column justify-content-center align-items-center ${memberInfo.imgBgClass}`}
         >
           {" "}
-          <img src={memberInfo.imgURL} className="team-member-img" />
+          <img src={memberInfo.imgURL} className="team-member-img" alt="img" />
         </div>
         <h5 className="team-member-card-heading">{memberInfo.name}</h5>
         <p className="team-member-card-sub-heading">{memberInfo.position}</p>

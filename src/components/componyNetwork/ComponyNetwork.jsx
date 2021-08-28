@@ -2,9 +2,9 @@ import React from "react";
 import "./ComponyNetwork.css";
 const ComponyNetwork = () => {
   return (
-    <div class="compony-network container-fluid p-5">
-      <div class="row px-4">
-        <h5 class="col compony-network-heading fw-bolder d-flex flex-column justify-content-center align-items-center ">
+    <div className="compony-network container-fluid p-5">
+      <div className="row px-4">
+        <h5 className="col compony-network-heading fw-bolder d-flex flex-column justify-content-center align-items-center ">
           TRUSTED BY TOP-LEADING COMPANIES
         </h5>
         <div className=" d-flex flex-column flex-md-row justify-content-around align-items-center">

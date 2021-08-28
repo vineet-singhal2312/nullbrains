@@ -1,5 +1,6 @@
 export const TeamMemberList = [
   {
+    id: 1,
     name: "Freddy Smith",
     position: "CEO and Founder",
     imgURL:
@@ -7,6 +8,8 @@ export const TeamMemberList = [
     imgBgClass: "bgBlue",
   },
   {
+    id: 2,
+
     name: "Carl Jones",
     position: "CTO and Co-Founder",
     imgURL:
@@ -14,6 +17,8 @@ export const TeamMemberList = [
     imgBgClass: "bgGreen",
   },
   {
+    id: 3,
+
     name: "Susan Peterson",
     position: "Marketing Directory",
     imgURL:
@@ -22,6 +27,8 @@ export const TeamMemberList = [
   },
 
   {
+    id: 4,
+
     name: "Tommy Barnes",
     position: "Designer",
     imgURL:
@@ -29,6 +36,8 @@ export const TeamMemberList = [
     imgBgClass: "bgyellow",
   },
   {
+    id: 5,
+
     name: "Pete Tompkins",
     position: "Web developer",
     imgURL:
@@ -36,6 +45,8 @@ export const TeamMemberList = [
     imgBgClass: "bgPurple",
   },
   {
+    id: 6,
+
     name: "Ron jenson",
     position: "Designer",
     imgURL:
@@ -43,6 +54,8 @@ export const TeamMemberList = [
     imgBgClass: "bgOrange",
   },
   {
+    id: 7,
+
     name: "Kelly Richards",
     position: "Sales Manager",
     imgURL:
@@ -50,6 +63,8 @@ export const TeamMemberList = [
     imgBgClass: "bgSkyblue",
   },
   {
+    id: 8,
+
     name: "Alexis Jordan",
     position: "Affiliate manager",
     imgURL:
