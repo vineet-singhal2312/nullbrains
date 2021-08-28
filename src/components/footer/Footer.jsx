@@ -8,7 +8,7 @@ import { IoBasketballOutline } from "react-icons/io5";
 
 const Footer = () => {
   return (
-    <div className="footer container-fluid my-2">
+    <div id="footer" className="footer container-fluid my-2">
       <div className="row">
         <div className="col-12 my-2">
           <ul className="list d-flex justify-content-center align-items-center ">

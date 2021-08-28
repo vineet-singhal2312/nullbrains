@@ -6,7 +6,7 @@ import { BlogSmallCardData } from "./BlogSmallCaedData";
 import BlogSmallCard from "./BlogSmallCard";
 const Blogs = () => {
   return (
-    <div className="blogs container-fluid mb-5 d-flex flex-column justify-content-center align-items-center">
+    <div id="blogs" className="blogs container-fluid mb-5 d-flex flex-column justify-content-center align-items-center">
       <div className="row blog-heading-div align-self-start">
         <h1 className="col blog-heading fw-bolder ">The projects blogs</h1>
         <p className="blog-sub-heading ">

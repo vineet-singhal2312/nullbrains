@@ -10,7 +10,7 @@ import TeamSection from "../../components/teamSection/TeamSection";
 
 const Home = () => {
   return (
-    <div>
+    <div id="home">
       <Header />
       <HeroHeadingSection />
       <ComponyNetwork />

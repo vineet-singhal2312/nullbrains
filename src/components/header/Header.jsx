@@ -9,16 +9,16 @@ const Header = () => {
           nullbrains
         </h2>
         <div className="col-6 d-none d-md-flex justify-content-center align-items-center">
-          <a href="/" className="header-list-item">
+          <a href="/#home" className="header-list-item">
             Home
           </a>
-          <a href="/" className="header-list-item">
+          <a href="/#features" className="header-list-item">
             Features
           </a>
-          <a href="/" className="header-list-item">
+          <a href="/#blogs" className="header-list-item">
             Blog
           </a>
-          <a href="/" className="header-list-item">
+          <a href="/#footer" className="header-list-item">
             Contact
           </a>
           <a href="/" className="header-list-item">
